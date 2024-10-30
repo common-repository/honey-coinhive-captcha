@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Honey Coinhive Captcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-19 01:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: honey_captcha.php:78
+msgid "Captcha Settings"
+msgstr ""
+
+#: honey_captcha.php:211
+msgid "Coinhive API Settings are not set."
+msgstr ""
+
+#: honey_captcha.php:32
+msgid "Coinhive Captcha"
+msgstr ""
+
+#: honey_captcha.php:523
+msgid "Coinhive Captcha Settings"
+msgstr ""
+
+#: honey_captcha.php:69
+msgid "Coinhive Settings"
+msgstr ""
+
+#: honey_captcha.php:82
+msgid "Color"
+msgstr ""
+
+#: honey_captcha.php:59
+msgid "Detected IP: "
+msgstr ""
+
+#: honey_captcha.php:115
+msgid "Display Settings for Captcha"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily Add coinhive captcha before logins and comments."
+msgstr ""
+
+#: honey_captcha.php:281 honey_captcha.php:305
+msgid "ERROR"
+msgstr ""
+
+#: honey_captcha.php:92
+msgid "Fetch IP's from Cloudflare"
+msgstr ""
+
+#: honey_captcha.php:111
+msgid ""
+"Get your Site Key and Secret Key from <a href=\"https://coinhive.com/\" "
+"target=\"_blank\">Coinhive.com</a>"
+msgstr ""
+
+#: honey_captcha.php:79
+msgid "Hash Count"
+msgstr ""
+
+#. Name of the plugin
+#: honey_captcha.php:37
+msgid "Honey Coinhive Captcha"
+msgstr ""
+
+#. Author of the plugin
+msgid "Honey Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://honeyplugins.com"
+msgstr ""
+
+#: honey_captcha.php:523
+msgid "Please fill in your"
+msgstr ""
+
+#: honey_captcha.php:161
+msgid "Please verify first"
+msgstr ""
+
+#: honey_captcha.php:73
+msgid "Secret Key"
+msgstr ""
+
+#: honey_captcha.php:81
+msgid "Show on Comment"
+msgstr ""
+
+#: honey_captcha.php:80
+msgid "Show on Login"
+msgstr ""
+
+#: honey_captcha.php:72
+msgid "Site key"
+msgstr ""
+
+#: honey_captcha.php:281 honey_captcha.php:305 honey_captcha.php:305
+msgid "Verification failed."
+msgstr ""
+
+#: honey_captcha.php:214 honey_captcha.php:407
+msgid "Verify I'm not a robot"
+msgstr ""
+
+#: honey_captcha.php:160
+msgid "Verifying..."
+msgstr ""
+
+#: honey_captcha.php:90
+msgid "Whitelist IP addresses"
+msgstr ""
+
+#: honey_captcha.php:91
+msgid "Whitelist IP's <br>*comma separated"
+msgstr ""
+
+#: honey_captcha.php:103
+msgid "Whitelist specific IP addresses."
+msgstr ""
